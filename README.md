@@ -1,6 +1,6 @@
 # Heart Disease Prediction using Machine Learning
 
-![Heart Disease](https://github.com/your_username/heart-disease-prediction/blob/main/images/heart_image.jpg)
+<!-- ![Heart Disease](https://github.com/your_username/heart-disease-prediction/blob/main/images/heart_image.jpg) -->
 
 This repository contains a machine learning project that focuses on predicting heart disease using various features and algorithms. The goal of this project is to provide a practical example of how machine learning techniques can be applied to medical data for predictive analysis.
 
