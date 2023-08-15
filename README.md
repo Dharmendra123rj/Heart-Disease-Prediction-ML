@@ -20,6 +20,14 @@ This repository contains a machine learning project that focuses on predicting h
 
 Heart disease is a significant global health concern that affects millions of people. Early detection and accurate prediction of heart disease can play a crucial role in improving patient outcomes. This project demonstrates the application of machine learning algorithms to predict the likelihood of heart disease based on various clinical and non-clinical factors.
 
+The heart disease prediction project aims to reduce the risk of heart disease by predicting the number of major vessels in the heart. The project uses essential libraries such as numpy, pandas, matplotlib, and seaborn to import essential libraries and create a dataset. The dataset is then imported and understood using pandas' core.frame.DataFrame class, which has a memory usage of 33.2 KB.
+
+The dataset includes 14 columns: age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal, and target. The data is analyzed using the 'target' variable, which has values '0' and '1'. The correlation between columns is checked using the 'corr()' function.
+
+The results show that the target variable has a mean of 303.000000, with a mean of 0.544554 and a standard deviation of 0.498835. The correlation between columns is '0' and '1', with a maximum of 1.000000. The 'target' variable has a mean of 0.436757, with a mean of 0.430696 and a standard deviation of 0.391724. The 'target' variable has a mean of 0.430696 and a standard deviation of 0.391724.
+
+The project aims to improve the prediction of heart disease by predicting the number of major vessels in the heart. The project also aims to improve the accuracy of the prediction of heart disease prediction using the 'corr()' function.
+
 ## Dataset
 
 The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/your_dataset_link) and consists of a collection of features such as age, gender, cholesterol levels, blood pressure, etc., along with a target variable indicating the presence or absence of heart disease.
