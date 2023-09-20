@@ -36,7 +36,7 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/your_username/heart-disease-prediction.git](https://github.com/Dharmendra123rj/Heart-Disease-Prediction-ML)
+   git clone https://github.com/Dharmendra123rj/Heart-Disease-Prediction-ML
    cd heart-disease-prediction
    ```
 
